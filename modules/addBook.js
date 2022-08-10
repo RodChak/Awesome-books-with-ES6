@@ -19,7 +19,7 @@ export const addBook = (book) => {
   bookItem.appendChild(deleteButton);
 
   deleteButton.addEventListener('click', (event) => {
-    book.removeFromShelf();
+    book.removeFrombookArray();
     event.target.parentElement.remove();
   });
 };
