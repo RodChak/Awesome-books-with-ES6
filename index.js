@@ -54,7 +54,7 @@ for (let i = 0; i < bookArray.length; i += 1) {
 }
 const y = () => {
   document.getElementById('time').innerHTML = X.displayDate();
-}
+};
 
 toggler();
 setInterval(y, 1000);
