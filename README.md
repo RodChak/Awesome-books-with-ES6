@@ -16,10 +16,10 @@
 - Languages used HTML, CSS, Javascript.
 - Technologies used Github, Git, VSCode.
 -  Linters:
-  - Stylelint
-  - Lighthouse
-  - Webhint
-  - ESLint
+     - Stylelint
+     - Lighthouse
+     - Webhint
+     - ESLint
 
 ## Webpage user Interface Screenshot
 
