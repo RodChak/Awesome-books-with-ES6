@@ -7,8 +7,10 @@
 
 ### Links
 
-- Live Site URL: [see live demo]()
+- Live Site URL: [see live demo](https://rodchak.github.io/Awesome-books-with-ES6/)
 
+## Website Mockup
+![screenshot](./images/Mockup.png)
 
 
 ## Built With
