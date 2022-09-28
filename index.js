@@ -1,6 +1,6 @@
 import Book from './modules/object constructor.js';
 import toggle from './modules/toggler.js';
-import {UI, Store} from './modules/User Interface.js';
+import { UI, Store } from './modules/User Interface.js';
 import displayDate from './modules/date.js';
 
 // Event: Display Books

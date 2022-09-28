@@ -1,4 +1,4 @@
-import { DateTime } from './luxon.min.js';
+import { DateTime } from '../node_modules/luxon/build/es6/luxon.js';
 // to display date
 const displayDate = () => {
   const date = DateTime.now();

@@ -1,6 +1,8 @@
 // Ui Class: handle UI TAsks
+// eslint-disable-next-line max-classes-per-file
 export class UI {
   static displayBooks() {
+    // eslint-disable-next-line no-use-before-define
     const books = Store.getBooks();
 
     books.forEach((book) => UI.addBookToList(book));
